@@ -47,7 +47,7 @@ HTML to a Github repository, that GitHub Pages then host;
 [jekyll-travis](https://github.com/mfenner/jekyll-travis)) automatically pushing the
 generated HTML files to a *gh-pages* branch.
 
-4. deploy the static website with Jekyll-compatible hosters, such as https://www.netlify.com/, that allow for deployment from the Github repo and publish the website using CDNs. Netlify has a free starter offer.
+4. deploy the static website with Jekyll-compatible hosters, such as [Netlify](https://www.netlify.com/), that allow for deployment from the Github repo and publish the website using CDNs. Netlify has a free starter offer.
 
 For option **2)** simply clone this repository (*master branch*), and then run
 `bundle exec jekyll serve` inside the directory. Upload the resulting `_site/` (or `../jasper2-pages/`)
