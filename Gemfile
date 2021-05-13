@@ -5,3 +5,4 @@ gem "github-pages", "~> 214"
 gem "rake", "~> 13.0.3"
 gem "slugify", "~> 1.0.7"
 gem 'wdm', '>= 0.1.0' if Gem.win_platform?
+gem "webrick", "~> 1.7"
