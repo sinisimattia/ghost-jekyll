@@ -19,6 +19,7 @@ package-lock.json
 .bundle
 .config
 coverage
+assets/built
 InstalledFiles
 lib/bundler/man
 pkg
